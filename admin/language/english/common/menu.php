@@ -1,0 +1,31 @@
+<?php
+// Text
+$_['text_dashboard']                   = 'Dashboard';
+$_['text_users']                       = 'Administrateur';
+$_['text_user']                        = 'Users';
+$_['text_personnels']                  = 'Personnels';
+$_['text_user_group']                  = 'User Groups';
+$_['text_db_setting']                  = 'DB Settings';
+$_['text_data_config']                 = 'DATA Config';
+$_['text_manager_service']             = 'ES Service Manager';
+$_['text_logs_files']             	   = 'ES Logs Files';
+$_['text_logs_platforme']              = 'Platforme Logs Files';
+$_['text_admin_log']              	   = 'Error Log File';
+$_['text_system_log']              	   = 'System Log File';
+$_['text_config_search_engines']       = 'Config Search Engines';
+$_['text_matriel']       			   = 'Type Matériel';
+$_['text_typematriel']       		   = 'Gestion des matériels';
+$_['text_marque']       			   = 'Marque';
+$_['text_addons']       			   = 'Add-Ons';
+$_['text_gouvernorat']       		   = 'Gouvernorat';
+$_['text_delegation']       		   = 'Délégation';
+$_['text_fonction']       			   = 'Fonction';
+$_['text_elFinder'] 	   			   = 'Gestionnaire de fichiers';
+$_['text_sites'] 					   = 'Structures';
+$_['text_site'] 					   = 'Structure';
+$_['text_bureau'] 					   = 'Bureau';
+$_['text_parc'] 					   = 'Gestion du parc';
+$_['text_parcs'] 					   = 'Affectation parc';
+$_['text_matriels'] 				   = 'Matériel parc';
+$_['text_tikcet'] 				   	   = 'Tickets';
+$_['text_intervention'] 			   = 'Type d\'intervention';

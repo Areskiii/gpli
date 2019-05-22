@@ -1,0 +1,10 @@
+Session User
+http://localhost/glpi_pfe/
+Test.Test@gmail.com
+22271252
+
+
+Session Admin
+http://localhost/glpi_pfe/admin/
+admin
+22271252
